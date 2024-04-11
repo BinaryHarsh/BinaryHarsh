@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **React , Bootstrap , Javascript , Tailwind css**
 
-- 📫 How to reach me **iamharsh292@gmail.com**
+- 📫 How to reach me **harshbhagirath292@gmail.com**
 
 - 📄 Know about my experiences [https://s3.ap-south-1.amazonaws.com/weekday-resume-attachments/b2beiyfy9l000000001697711084635](https://s3.ap-south-1.amazonaws.com/weekday-resume-attachments/b2beiyfy9l000000001697711084635)
 
