@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshsmarty2002&label=Profile%20views&color=0e75b6&style=flat" alt="harshsmarty2002" /> </p>
 
-- 🔭 I’m currently working on [Unifier Innovatin Pvt Ltd](https://unibillapp.com/)
-
 - 🌱 I’m currently learning **Backend Development**
 
 - 💬 Ask me about **React , Bootstrap , Javascript , Tailwind css** , Typescript
