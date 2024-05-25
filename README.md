@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Backend Development**
 
-- 💬 Ask me about **React , Bootstrap , Javascript , Tailwind css**
+- 💬 Ask me about **React , Bootstrap , Javascript , Tailwind css** , Typescript
 
 - 📫 How to reach me **harshbhagirath292@gmail.com**
 
