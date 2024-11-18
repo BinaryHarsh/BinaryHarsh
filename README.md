@@ -9,7 +9,6 @@
 
 - 📫 How to reach me **harshbhagirath292@gmail.com**
 
-- 📄 Know about my experiences [https://s3.ap-south-1.amazonaws.com/weekday-resume-attachments/b2beiyfy9l000000001697711084635](https://s3.ap-south-1.amazonaws.com/weekday-resume-attachments/b2beiyfy9l000000001697711084635)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
