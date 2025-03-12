@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **React , Bootstrap , Javascript , Tailwind css** , Typescript
 
-- 📫 How to reach me **harshbhagirath292@gmail.com**
+- 📫 How to reach me **binaryharsh292@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
